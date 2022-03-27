@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c28a57ce-3b81-a5ed-a478-1cf955c38f36
 resourcetype: Document
 title: "Paraphrase \u2014 The Deadly Sin"
 uid: a204ee99-a249-591c-9453-599db25eb693

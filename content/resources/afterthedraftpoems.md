@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c28a57ce-3b81-a5ed-a478-1cf955c38f36
 resourcetype: Document
 title: After the First Draft
 uid: f136378d-0e72-4a6f-c758-0ee9332d5248

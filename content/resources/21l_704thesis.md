@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: c28a57ce-3b81-a5ed-a478-1cf955c38f36
 resourcetype: Document
 title: Developing a Thesis
 uid: 4c38b5da-acbc-1cb3-7a19-80a2419b1d73
