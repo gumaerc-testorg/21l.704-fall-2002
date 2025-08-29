@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tips on developing a thesis for an essay.
-file: /courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/4c38b5daacbc1cb37a1980a2419b1d73_21L_704thesis.pdf
+file: /ol-ocw-studio-app/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/4c38b5daacbc1cb37a1980a2419b1d73_21L_704thesis.pdf
 file_size: 375363
 file_type: application/pdf
 learning_resource_types: []
