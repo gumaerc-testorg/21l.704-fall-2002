@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on writing papers for the course.
-file: /ol-ocw-studio-app/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/a22d9d2ca7852ba0a6da940a56569daa_poetryessays.pdf
+file: /courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/a22d9d2ca7852ba0a6da940a56569daa_poetryessays.pdf
 file_size: 81539
 file_type: application/pdf
 learning_resource_types: []

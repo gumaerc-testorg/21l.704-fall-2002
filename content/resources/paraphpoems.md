@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tips on writing essays.
-file: /ol-ocw-studio-app/courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/a204ee99a249591c9453599db25eb693_Paraphpoems.pdf
+file: /courses/21l-704-studies-in-poetry-does-poetry-matter-fall-2002/a204ee99a249591c9453599db25eb693_Paraphpoems.pdf
 file_size: 38274
 file_type: application/pdf
 learning_resource_types: []
